@@ -1,0 +1,49 @@
+git fetch origin - checks your local repository is up to date.
+git merge origin/main - This will merge the changes from the remote "main" branch into your local "main" branch.
+git push origin main - This process ensures that you have the latest changes from the remote repository in your local branch, and it helps prevent conflicts when pushing your changes.
+
+Git provides a set of common commands for version control and collaboration. Here is a list of some commonly used Git commands along with a brief description of each:
+
+1. git init: Initializes a new Git repository in the current directory.
+
+2. git clone: Creates a copy of a remote repository on your local machine.
+
+3. git add: Stages changes for the next commit. You can specify files or directories to be staged.
+
+4. git commit: Records staged changes to the repository along with a commit message.
+
+5. git status: Shows the status of your working directory, including untracked, modified, and staged files.
+
+6. git log: Displays a log of commit history in the repository.
+
+7. git branch: Lists, creates, or deletes branches in your repository.
+
+8. git checkout: Switches between branches or commits.
+
+9. git merge: Merges changes from one branch into another.
+
+10. git pull: Fetches changes from a remote repository and merges them into your current branch.
+
+11. git push: Pushes your local changes to a remote repository.
+
+12. git fetch: Fetches changes from a remote repository but doesn't merge them.
+
+13. git remote: Lists or manages remote repositories.
+
+14. git diff: Shows the differences between your working directory and the last commit.
+
+15. git reset: Unstages changes or moves the HEAD to a specific commit.
+
+16. git revert: Creates a new commit that undoes the changes introduced by a specific commit.
+
+17. git rebase: Reapplies a series of commits onto a different base commit.
+
+18. git tag: Lists, creates, or deletes tags to mark specific points in history.
+
+19. git stash: Temporarily saves changes that are not ready to be committed.
+
+20. git blame: Shows the author and commit information for each line of a file.
+
+    - These are some of the most commonly used Git commands. 
+    - Git provides a wide range of features and commands for version control, and you can access more detailed information about each command by using 
+      the `git --help` or `git <command> --help` for the specific command you want to learn more about.
