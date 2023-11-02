@@ -1,1 +1,3 @@
-Created a file in the repository.
+git fetch origin - checks your local repository is up to date.
+git merge origin/main - This will merge the changes from the remote "main" branch into your local "main" branch.
+git push origin main - This process ensures that you have the latest changes from the remote repository in your local branch, and it helps prevent conflicts when pushing your changes.
